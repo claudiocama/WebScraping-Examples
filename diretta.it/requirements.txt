@@ -1,0 +1,7 @@
+Download geckodriver from:
+https://github.com/mozilla/geckodriver/releases
+and put in the same folder of the script.
+Then install:
+$ pip install selenium
+$ pip install bs4
+$ pip install html5lib
