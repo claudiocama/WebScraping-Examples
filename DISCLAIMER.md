@@ -1,0 +1,1 @@
+The use of data without the express consent of the supplier can be considered illegal in some countries or however immoral. Most services now provide APIs that make the procedure much more simple and functional. I take no responsibility for the use that you decide to make of scripts that have been written for educational purposes only.
