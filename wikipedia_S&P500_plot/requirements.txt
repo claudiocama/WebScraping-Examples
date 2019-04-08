@@ -1,0 +1,4 @@
+Install:
+$ pip install matplotlib
+$ pip install bs4
+$ pip install html5lib
